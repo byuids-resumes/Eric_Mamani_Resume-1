@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Eric's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Eric Mamani
+Student at BYU-Idaho
 
 <div id="webaddress">
 | mam20009@byui.edu
