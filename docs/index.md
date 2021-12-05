@@ -6,10 +6,10 @@ title: Brigham Young's Resume
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| mam20009@byui.edu
+| <a href="https://www.linkedin.com/in/eric-mamani-ramirez-4aa454201/">MyLinkedIn</a>
+| 801.404.9051
+| Rexburg, Idaho
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -17,10 +17,16 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `2021 - expected 2023`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelor’s Degree in Computer Science with Minor in Mathematics
 - GPA: 3.95
+
+`2021 - expected 2023`
+
+__Western Governors University__, Salt Lake City, UT
+- Bachelor's Degree in Mathematics Education
 
 
 ## Work Experience
